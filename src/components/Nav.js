@@ -16,15 +16,21 @@ const Nav = () => (
         <a
           className="nav-link"
           href="https://www.facebook.com/jeremylshepherdphotography"
+          aria-label="Navigate to Jeremy L. Shepherd Photogrpahy's Facebook page"
         >
           <i className="fa fa-facebook-official fa-2x" />
         </a>
-        <a className="nav-link" href="https://twitter.com/jeremylshepherd">
+        <a
+          className="nav-link"
+          href="https://twitter.com/jeremylshepherd"
+          aria-label="Navigate to Jeremy L. Shepherd Photogrpahy's Twitter page"
+        >
           <i className="fa fa-twitter-square fa-2x" />
         </a>
         <a
           className="nav-link "
           href="https://www.instagram.com/jeremylshepherdphotography"
+          aria-label="Navigate to Jeremy L. Shepherd Photogrpahy's Instagram page"
         >
           <i className="fa fa-instagram fa-2x" />
         </a>
