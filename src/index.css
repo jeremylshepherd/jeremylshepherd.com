@@ -255,6 +255,16 @@ a {
     column-count: 2;
   }
 
+  .footer {
+    justify-content: space-around;
+  }
+  .footer a {
+    font-size: 2em;
+  }
+  .footer .footer-text {
+    display: none;
+  }
+
   .close-icon {
     bottom: 4vh;
   }
