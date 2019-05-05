@@ -23,12 +23,12 @@
       "type": "image/png"
     },
     {
-      "src": "jeremylshepherd.com_icon_512.png",
+      "src": "jeremylshepherd.com_icon_512.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#292B2C"
