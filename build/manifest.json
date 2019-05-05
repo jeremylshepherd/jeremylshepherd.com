@@ -23,9 +23,9 @@
       "type": "image/png"
     },
     {
-      "src": "jeremylshepherd.com_icon_512.jpeg",
+      "src": "jeremylshepherd.com_icon_512.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ],
   "start_url": "/",
